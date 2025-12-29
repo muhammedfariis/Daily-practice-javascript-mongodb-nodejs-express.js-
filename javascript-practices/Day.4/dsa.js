@@ -1,5 +1,5 @@
 // day 4 
-// map , filter and how this works 
+// map , filter the main methord and how this works 
 
 let numbers = [1,2,45,8,88,8,5,45,15,5,22]
 
