@@ -15,8 +15,6 @@ console.log(final);
 // return as an array of splitted and then reverse can we apply and then join it it thats all 
 
 
-
-
 function palidrome(palidrome = "radar"){
    let palidroming = palidrome.split(" ").reverse().join("")
    return palidroming 
