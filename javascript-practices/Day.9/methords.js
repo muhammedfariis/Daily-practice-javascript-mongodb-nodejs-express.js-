@@ -1,6 +1,7 @@
 // day 9 
 // slice and splice 
 
+
 let array = [10,20,30,40,50,60]
 
 let copying = array.slice(0,4)
